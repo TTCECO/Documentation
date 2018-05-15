@@ -1,5 +1,5 @@
 
-<h1 align="center">Building Blockchain for billions</h1>
+<h1 align="center">Building Blockchain for Billions</h1>
 <p align="center" class="version">The First Open letter to TTC Community</p>
 
 The distributed ledger technology, better known as Blockchain technology, is the most disruptive technology in a decade. It has the potential to change the world in ways not seen since the first days of the Internet. Yet, because the technology itself is at an early stage, it still has hurdles to overcome in order to support large-scale services.
@@ -120,8 +120,8 @@ Though it still requires much development of technology, we are very optimistic 
 
 Homepage : http://www.ttc.eco/
 
-Telegram (English): t.me/ttc_en 
+Telegram (English): http://t.me/ttc_en 
 
-Telegram (Korea): t.me/ttc_kr 
+Telegram (Korea): http://t.me/ttc_kr 
 
 Email: official@ttc.eco
