@@ -8,7 +8,7 @@
 
 ## TTC Ecosystem
 
-[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Ecosystem_v01_EN.pdf)
+[Ecosystem](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Ecosystem_v01_EN.pdf)
 
 ## TTC Official Website
 
