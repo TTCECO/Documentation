@@ -6,6 +6,18 @@ The distributed ledger technology, better known as Blockchain technology, is the
 
 This open letter is to share our goal, our strategic approach to surmounting these hurdles, and our future plans for the project. At the same time, we ask developer communities to join us and work together to develop Blockchain technology to create a better future. We will continue to share our thoughts and beliefs openly in the community.
 
+- [Background](#Background)
+- [Account System](#Account_System)
+- [Consensus (BFT-DPoS)](#Consensus_(BFT-DPoS))
+- [Smart Contract](#Smart_Contract)
+- [Cross-chain](#Cross-chain)
+- [Multi-dimensional Data Storage](#Multi-dimensional_Data_Storage)
+- [Oracle](#Oracle)
+- [Ecosystem Toolkit](#Ecosystem_Toolkit)
+- [Mobile Service Enabled Blockchain](#Mobile_Service_Enabled_Blockchain)
+- [Anti-spam Strategy ](#Anti-spam_Strategy )
+- [Conclusion](#Conclusion)
+
 ## Background
 
 TTC Protocol is a decentralized and token-incentivized protocol for social network services and online communities, seeking faster user growth. Every member in the TTC Ecosystem works for one aligned goal of creating a more efficient, transparent, and meritocratic network. 
@@ -116,7 +128,7 @@ We have recognized that blockchain has a potential to realize the true social co
 Though it still requires much development of technology, we are very optimistic of the future coming. We welcome anyone who believes in the same idea to work together and develop Blockchain technology to create a better future. 
 
 
-## TTC Protocol
+TTC Protocol
 
 Homepage : http://www.ttc.eco/
 
