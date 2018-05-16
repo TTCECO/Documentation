@@ -21,3 +21,5 @@
 [Medium](https://medium.com/@ttc.eco)
 
 [Kakao](https://open.kakao.com/o/gc359CM)
+
+[Email](mailto:official@tte.eco)
