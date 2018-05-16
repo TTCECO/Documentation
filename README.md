@@ -10,16 +10,20 @@
 
 [Ecosystem](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Ecosystem_v01_EN.pdf)
 
+## First Open Letter to TTC Community
+
+[Open Letter](https://github.com/TTCECO/Documentation/blob/master/first_open_letter_to_TTC_community.md)
+
 ## TTC Official Website
 
 [ttc.eco](https://ttc.eco)
 
 ## TTC Community
 
-[Telegram](https://t.me/ttc_en)
-
-[Medium](https://medium.com/@ttc.eco)
+[Telegram[EN]](https://t.me/ttc_en) | [Telegram[KR]](https://t.me/ttc_kr)
 
 [Kakao](https://open.kakao.com/o/gc359CM)
+
+[Medium](https://medium.com/@ttc.eco)
 
 [Email](mailto:official@tte.eco)
