@@ -4,7 +4,7 @@
 
 ## TTC Whitepapers
 
-[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_EN.pdf) / [Korean](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_KR.pdf) / [Chinese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_CHS.pdf) 
+[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_EN.pdf) | [Korean](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_KR.pdf) | [Chinese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_CHS.pdf) 
 
 ## TTC Ecosystem
 
@@ -12,7 +12,7 @@
 
 ## First Open Letter to TTC Community
 
-[Open Letter](https://github.com/TTCECO/Documentation/blob/master/first_open_letter_to_TTC_community.md)
+[English](https://github.com/TTCECO/Documentation/blob/master/first_open_letter_to_TTC_community.md)  | [Chinese](https://github.com/TTCECO/Documentation/blob/master/%E7%BB%99TTC%E7%A4%BE%E5%8C%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E5%B0%81%E5%85%AC%E5%BC%80%E4%BF%A1.md)
 
 ## TTC Official Website
 
