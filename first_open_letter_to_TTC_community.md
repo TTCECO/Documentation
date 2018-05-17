@@ -8,7 +8,7 @@ This open letter is to share our goal, our strategic approach to surmounting the
 
 - [Background](#background)
 - [Account System](#account-system)
-- [Consensus(BFT-DPoS)](#consensus(BFT-DPoS))
+- [Consensus (BFT-DPoS)](#consensus-bft-dpos))
 - [Smart Contract](#smart-contract)
 - [Cross-chain](#cross-chain)
 - [Multi-dimensional Data Storage](#multi-dimensional-data-storage)
@@ -35,7 +35,7 @@ There are two types of mainstream account systems in blockchain society: asset-o
 DAPPs in the TTC Ecosystem create and assign one default account for data storage and reward distribution to each user. Each user can request the authority transfer of this account from the address owner(a DAPP) and bind to his or her universal account in the TTC Ecosystem.
 
 
-## Consensus(BFT-DPoS)
+## Consensus (BFT-DPoS)
 
 In a decade of development, the consensus algorithm - also known as the core of the blockchain technology - has evolved from a single PoW to multiple forms, such as PoS, DPoS and BFT. Each consensus algorithm has its pros and cons and a blockchain project must decide one consensus algorithm that is best suitable for its purpose and ideology.
 
