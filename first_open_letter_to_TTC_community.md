@@ -6,8 +6,8 @@ The distributed ledger technology, better known as Blockchain technology, is the
 
 This open letter is to share our goal, our strategic approach to surmounting these hurdles, and our future plans for the project. At the same time, we ask developer communities to join us and work together to develop Blockchain technology to create a better future. We will continue to share our thoughts and beliefs openly in the community.
 
-- [Background](#Background)
-- [Account System](#Account_System)
+- [Background](#background)
+- [Account System](#account_system)
 - [Consensus (BFT-DPoS)](#Consensus_(BFT-DPoS))
 - [Smart Contract](#Smart_Contract)
 - [Cross-chain](#Cross-chain)
