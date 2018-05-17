@@ -8,15 +8,15 @@ This open letter is to share our goal, our strategic approach to surmounting the
 
 - [Background](#background)
 - [Account System](#account-system)
-- [Consensus (BFT-DPoS)](#Consensus-(BFT-DPoS))
-- [Smart Contract](#Smart-Contract)
-- [Cross-chain](#Cross-chain)
-- [Multi-dimensional Data Storage](#Multi-dimensional-Data-Storage)
-- [Oracle](#Oracle)
-- [Ecosystem Toolkit](#Ecosystem-Toolkit)
-- [Mobile Service Enabled Blockchain](#Mobile-Service-Enabled-Blockchain)
-- [Anti-spam Strategy ](#Anti-spam-Strategy )
-- [Conclusion](#Conclusion)
+- [Consensus (BFT-DPoS)](#consensus-(BFT-DPoS))
+- [Smart Contract](#smart-contract)
+- [Cross-chain](#cross-chain)
+- [Multi-dimensional Data Storage](#multi-dimensional-data-storage)
+- [Oracle](#oracle)
+- [Ecosystem Toolkit](#ecosystem-toolkit)
+- [Mobile Service Enabled Blockchain](#mobile-service-enabled-blockchain)
+- [Anti-spam Strategy ](#anti-spam-strategy )
+- [Conclusion](#conclusion)
 
 ## Background
 
