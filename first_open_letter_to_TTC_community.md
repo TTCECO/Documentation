@@ -8,7 +8,7 @@ This open letter is to share our goal, our strategic approach to surmounting the
 
 - [Background](#background)
 - [Account System](#account-system)
-- [Consensus (BFT-DPoS)](#consensus-bft-dpos))
+- [Consensus (BFT-DPoS)](#consensus-bft-dpos)
 - [Smart Contract](#smart-contract)
 - [Cross-chain](#cross-chain)
 - [Multi-dimensional Data Storage](#multi-dimensional-data-storage)
