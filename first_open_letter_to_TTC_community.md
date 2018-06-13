@@ -7,8 +7,8 @@ The distributed ledger technology, better known as Blockchain technology, is the
 This open letter is to share our goal, our strategic approach to surmounting these hurdles, and our future plans for the project. At the same time, we ask developer communities to join us and work together to develop Blockchain technology to create a better future. We will continue to share our thoughts and beliefs openly in the community.
 
 - [Background](#background)
-- [Account System](#account-system)
 - [Consensus (BFT-DPoS)](#consensus-bft-dpos)
+- [Account System](#account-system)
 - [Smart Contract](#smart-contract)
 - [Cross-chain](#cross-chain)
 - [Multi-dimensional Data Storage](#multi-dimensional-data-storage)
@@ -20,20 +20,13 @@ This open letter is to share our goal, our strategic approach to surmounting the
 
 ## Background
 
-TTC Protocol is a decentralized and token-incentivized protocol for social network services and online communities, seeking faster user growth. Every member in the TTC Ecosystem works for one aligned goal of creating a more efficient, transparent, and meritocratic network. 
+TTC Protocol is a decentralized and token-incentivized protocol for social network services and online communities, seeking faster user growth. Every member in the TTC Ecosystem works for one aligned goal of creating a more efficient, transparent, and meritocratic network.
 
-We are building a blockchain protocol with improved performance, scalability, robustness, latency and mobile adaptation for large-scale social networking platforms. 
+To achieve such goal, we are building a blockchain protocol with improved performance, scalability, robustness, latency and mobile adaptation for large-scale social networking platforms.
 
-Ethereum with PoW consensus algorithm is not suitable for mainstream services due to its limited transaction speed. TTC Protocol utilizes BFT-DPoS consensus algorithm to support DAPPs with large user base.
+Ethereum with PoW consensus algorithm is not suitable for mainstream services due to its limited transaction speed. Hence, TTC Protocol utilizes BFT-DPoS consensus algorithm to support DAPPs with large user base.
 
-The structure of the TTC Ecosystem has three major layers: persistence layer, domain layer and service layer. Persistence layer has the account system, BFT-DPoS consensus mechanism, smart contract and more. Domain layer consists of the cross-chain protocol suite, oracle protocol suite, data mapping and storage protocol suite based on the smart contract. Finally, the service layer of the platform consists of complete tripartite protocol, API and SDK, dashboard and related components. Also, it provides access to developers, advertisers, and other related parties. The entire ecosystem realizes the process of information generation, consumption and transfer. 
-
-## Account System
-
-There are two types of mainstream account systems in blockchain society: asset-oriented (bitcoin UTXO) and user-oriented (Ethernet). The TTC applies the user-oriented account system, which distinguishes external owner accounts and smart contract accounts. While Ethereum matches one private key to one address, TTC allows one private key to correspond with multiple addresses, and also supports the authority transfer of the address owner.
-
-DAPPs in the TTC Ecosystem create and assign one default account for data storage and reward distribution to each user. Each user can request the authority transfer of this account from the address owner(a DAPP) and bind to his or her universal account in the TTC Ecosystem.
-
+The TTC Ecosystem is structurally composed of three major layers: persistence layer, domain layer, and service layer. Persistence layer has the account system, BFT-DPoS consensus mechanism, smart contracts and more. Domain layer consists of the cross-chain protocol suite, oracle protocol suite, data mapping and storage protocol suite based on the smart contract. Finally, the service layer of the platform consists of complete tripartite protocol, API and SDK, dashboard and related components. The service layer also provides access to developers, advertisers, and other related parties. The entire ecosystem realizes the process of information generation, consumption and transfer.
 
 ## Consensus (BFT-DPoS)
 
@@ -42,6 +35,12 @@ In a decade of development, the consensus algorithm - also known as the core of 
 We are building TTC Protocol to close the gap between blockchain technology and existing social networking applications used by billions of people everyday. BFT-DPoS consensus is implemented in TTC Protocol to enable large transaction processing capabilities and fast verification.
 
 BFT-DPoS is a consensus algorithm built based on the DPoS consensus, where multiple super-node producers elected in real time can ensure the stability and efficiency of new blocks under fair premise. Its processing speed of a single chain can reach thousands of transactions per second without multi-chain parallelism or sharding processing mechanism. It also uses the BFT mechanism to increase the speed of confirmation for each transaction. Ideally, the time of confirmation is the same as generation of a new block, which improves the execution efficiency of the entire blockchain.
+
+## Account System
+
+There are two types of mainstream account systems in blockchain society: asset-oriented (bitcoin UTXO) and user-oriented (Ethernet). The TTC applies the user-oriented account system, which distinguishes external owner accounts and smart contract accounts. While Ethereum matches one private key to one address, TTC allows one private key to correspond with multiple addresses, and also supports the authority transfer of the address owner.
+
+DAPPs in the TTC Ecosystem create and assign one default account for data storage and reward distribution to each user. Each user can request the authority transfer of this account from the address owner(a DAPP) and bind to his or her universal account in the TTC Ecosystem.
 
 ## Smart Contract
 
@@ -86,30 +85,30 @@ The TTC Ecosystem supports multi-node oracle solution to ensure reliability, sta
 
 ## Ecosystem Toolkit
 
-TTC Ecosystem provides numerous features and toolkits for members of different roles. 
+TTC Ecosystem provides numerous features and toolkits for different members of TTC.
+
 
 (1) For DAPP developers: 
-A complete set of TTC test chain and corresponding cloud storage resource as well as detailed documents, use cases, multi-platform cross-language SDKs and APIs can be obtained from the developer community. There is no need for developers to deploy servers to use the test chain for developing and debugging. After completing QA process, DAPP can be connected to the main chain just by replacing the relevant address and application key.
+A complete set of TTC test chain and corresponding cloud storage resource as well as detailed documents, use cases, multi-platform cross-language SDKs and APIs can be obtained from the developer community. There is no need for developers to deploy servers to use the test chain for developing and debugging. After completing the QA process, DAPPs can be connected to the main chain just by replacing the relevant address and application key. Also, there exists another project, “[git.eco](git.eco)”, which is a token incentivized collaboration community for developers. Participating contributors will get rewarded for creating issues, committing code, merging branches, forking repositories, and reviewing code.
+
 
 (2) For DAPP operators: 
 Statistic data of users can be accessed through the visualized charts in real time, as well as the amount of tokens acquired by users of the DAPP.
 
 
 (3) For advertisers: 
-Not only can they acquire advertising value ​​in real time, they can also optimize the delivery strategy base on detailed user behavior data authorized by users.
+Not only can they acquire advertising value in real time, they can also optimize the delivery strategy base on detailed user behavior data authorized by users.
 
 
 (4) For users: 
-A Single Sign-on Account (SSO) can be used to access all DAPPs in the TTC Ecosystem. A universal wallet controls all assets, enabling the cross-linked digital asset transfer. Also, users can authorize the transfer, sharing and other operations of the information among DAPPs with the same account. It is easy for users to earn token rewards from various DAPPs and to withdraw those tokens seamlessly.
-
+A Single Sign-on Account (SSO) can be used to access all DAPPs in the TTC Ecosystem. A universal wallet controls all assets, enabling the cross-linked digital asset transfer. Also, users can authorize transferring, sharing, and other operations regarding information on multiple DAPPs with the same account. It is easy for users to earn and withdraw token rewards from various DAPPs.
 
 
 ## Mobile Service Enabled Blockchain
 
-While most of the popular services/platforms are mobile-centric, the current blockchain technology is not ready for the mobile applications due to issues with manipulation, stability and connectivity. As a result, the blockchain-based services are not yet accessible to majority of the internet population.
+While most of the popular services/platforms are mobile-centric, the current blockchain technology is not ready for mobile applications due to issues with manipulation, stability, and connectivity. As a result, the blockchain-based services are not yet easily accessible to many internet users.
 
-TTC Protocol utilizes a dual side authorization solution to ensure that the mobile services run on blockchain technology without issues.
-
+To ensure mobile services to operate issue free on a blockchain, TTC Protocol utilizes a dual side authorization solution.
 
 ## Anti-spam Strategy 
 
@@ -123,17 +122,26 @@ The authenticity of the transaction is determined with machine learning algorith
 
 ## Conclusion
 
-We have recognized that blockchain has a potential to realize the true social collaboration in communities through a transparent and clear token economy. We believe each and every one’s contribution makes the world a better place. Such idea is reflected also on another project “git.eco”, a token incentivized collaboration community for developers. Participating contributors will get rewarded for creating issues, committing code, merging branches, forking repositories, and reviewing code.
 
-Though it still requires much development of technology, we are very optimistic of the future coming. We welcome anyone who believes in the same idea to work together and develop Blockchain technology to create a better future. 
+Despite the fact that Blockchain technology has remaining limitations to be overcome regarding large scale services, it has the potential to achieve true social collaboration between, and within, communities. All through a transparent and efficient token economy. Understanding the problems that are required to be solved and improved, we believe our team and users of the TTC protocol will be the avant-garde of Blockchain innovation. We know each and every one’s contribution will not only make the TTC ecosystem better, but eventually make this world a better place.
+
+We are very optimistic of the future that will be created by “us.” We welcome anyone and everyone who believes in the same idea of working together and developing Blockchain technology for the greater good of our future.
 
 
-TTC Protocol
+—— TTC Protocol
+
+
+
+**TTC Protocol** is a decentralized, token-incentivized social networking protocol.
+
+Telegram (English): t.me/ttc_en
+
+Telegram (Korean): t.me/ttc_kr
+
+Email: official@ttc.eco
 
 Homepage : http://www.ttc.eco/
 
-Telegram (English): http://t.me/ttc_en 
+Facebook : http://www.facebook.com/ttceco
 
-Telegram (Korea): http://t.me/ttc_kr 
-
-Email: official@ttc.eco
+Twitter : http://www.twitter.com/ttceco
