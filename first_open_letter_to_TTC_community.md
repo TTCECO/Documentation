@@ -89,7 +89,7 @@ TTC Ecosystem provides numerous features and toolkits for different members of T
 
 
 (1) For DAPP developers: 
-A complete set of TTC test chain and corresponding cloud storage resource as well as detailed documents, use cases, multi-platform cross-language SDKs and APIs can be obtained from the developer community. There is no need for developers to deploy servers to use the test chain for developing and debugging. After completing the QA process, DAPPs can be connected to the main chain just by replacing the relevant address and application key. Also, there exists another project, “[git.eco](git.eco)”, which is a token incentivized collaboration community for developers. Participating contributors will get rewarded for creating issues, committing code, merging branches, forking repositories, and reviewing code.
+A complete set of TTC test chain and corresponding cloud storage resource as well as detailed documents, use cases, multi-platform cross-language SDKs and APIs can be obtained from the developer community. There is no need for developers to deploy servers to use the test chain for developing and debugging. After completing the QA process, DAPPs can be connected to the main chain just by replacing the relevant address and application key. Also, there exists another project, “[git.eco](http://git.eco)”, which is a token incentivized collaboration community for developers. Participating contributors will get rewarded for creating issues, committing code, merging branches, forking repositories, and reviewing code.
 
 
 (2) For DAPP operators: 
@@ -134,9 +134,9 @@ We are very optimistic of the future that will be created by “us.” We welcom
 
 **TTC Protocol** is a decentralized, token-incentivized social networking protocol.
 
-Telegram (English): t.me/ttc_en
+Telegram (English): http://t.me/ttc_en
 
-Telegram (Korean): t.me/ttc_kr
+Telegram (Korean): http://t.me/ttc_kr
 
 Email: official@ttc.eco
 
