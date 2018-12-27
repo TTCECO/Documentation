@@ -4,7 +4,7 @@
 
 ## TTC Whitepapers
 
-[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_EN.pdf) | [Korean](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_KR.pdf) | [Chinese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_CHS.pdf) 
+[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_EN.pdf) | [Korean](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_KR.pdf) | [Chinese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_CHS.pdf) | [Vietnamese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v1/TTC_Whitepaper_VI.pdf) | [Russian](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v1/TTC_Whitepaper_RU.pdf) | [Indonesian](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v1/TTC_Whitepaper_INA.pdf)
 
 ## TTC Ecosystem
 
@@ -27,3 +27,9 @@
 [Medium](https://medium.com/@ttc.eco)
 
 [Email](mailto:official@tte.eco)
+
+## Resources
+
+TTC SDK : [iOS](https://github.com/TTCECO/TTCSDK_iOS) | [Android](https://github.com/TTCECO/TTCSDK_Android) | [Docs](https://docs.ttc.eco/)
+
+TTC Pay SDK : [iOS](https://github.com/TTCECO/TTCPay_iOS) | [Android](https://github.com/TTCECO/TTCPay_Android)
