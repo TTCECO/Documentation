@@ -4,7 +4,8 @@
 
 ## TTC Technical Documentation
 
-[TTC RPC](https://github.com/TTCECO/Documentation/blob/master/TTC_RPC_Documentation.md) 
+[TTC RPC](https://github.com/TTCECO/Documentation/blob/master/TTC_RPC_Documentation.md)
+
 [TTC Rest API](https://github.com/TTCECO/Documentation/blob/master/TTC_Rest_API_Documentation.md) 
 
 
