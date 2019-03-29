@@ -85,7 +85,6 @@ You can also replace "http://rpc-tokyo.ttcnet.io" with yours (http://ip:port/)
 
 #### Methods 
 
-- [eth_coinbase](#eth_coinbase)
 - [eth_accounts](#eth_accounts)
 - [eth_gasPrice](#eth_gasPrice)
 - [eth_blockNumber](#eth_blockNumber)
@@ -110,32 +109,6 @@ You can also replace "http://rpc-tokyo.ttcnet.io" with yours (http://ip:port/)
 - [net_peerCount](#net_peerCount)
 - [eth_syncing](#eth_syncing)
 - [eth_mining](#eth_mining)
-
-
-
-#### eth_coinbase
-
-#### Description 
-
-Returns the coinbase address for this client
-
-#### Parameters 
-
-*(none)*
-
-#### Returns 
-
-{[`Data`](#Data)} - coinbase address
-
-#### Example
-
-```
-#Request
-curl -X POST  -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_coinbase","params":[],"id":67}' http://rpc-tokyo.ttcnet.io
-
-#Response
-{"jsonrpc":"2.0","id":67,"result":"t0752c939ade161dfc460346c34a1bb415c87a60bf"}
-```
 
 
 
