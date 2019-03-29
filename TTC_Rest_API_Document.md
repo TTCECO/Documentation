@@ -2,7 +2,7 @@
 
 #### Methods 
 - [Get block info by block number](#Get_block_info_by_block_number)
-- [Get block info by block hash](#Get_block_info_by block_hash)
+- [Get block info by block hash](#Get_block_info_by_block_hash)
 - [Get transaction info](#Get_transaction_info)
 - [Get node info](#Get_node_info)
 - [Get address info](#Get_address_info)
