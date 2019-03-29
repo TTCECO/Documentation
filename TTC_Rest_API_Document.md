@@ -1,18 +1,17 @@
 # TTC Base Rest API
 
 #### Methods 
-
-- [Get block info by block number](#Get block info by block number)
-- [Get block info by block hash](#Get block info by block hash)
-- [Get transaction info](#Get transaction info)
-- [Get node info](#Get node info)
-- [Get address info](#Get address info)
-- [Create account](#Create account)
-- [Submit transaction](#Submit transaction)
-
+- [Get block info by block number](#Get_block_info_by_block_number)
+- [Get block info by block hash](#Get_block_info_by block_hash)
+- [Get transaction info](#Get_transaction_info)
+- [Get node info](#Get_node_info)
+- [Get address info](#Get_address_info)
+- [Create account](#Create_account)
+- [Submit transaction](#Submittransaction)
 
 
-#### Get block info by block number
+
+#### Get_block_info_by_block_number
 
 GET https://api.ttcnet.io/api/node/block/{height}
 
@@ -59,7 +58,7 @@ The response body will include the block’s hash, height (null for orphaned blo
 
 ####  
 
-#### Get block info by block hash 
+#### Get_block_info_by_block_hash 
 
 GET https://api.ttcnet.io/api/node/block/{hash}
 
@@ -106,7 +105,7 @@ The response body will include the block’s hash, height (null for orphaned blo
 
 
 
-#### Get transaction info
+#### Get_transaction_info
 
 GET https://api.ttcnet.io/api/node/transaction/{hash}
 
@@ -145,7 +144,7 @@ The response body will include the transaction’s hash, block information (null
 
 
 
-#### Get node info 
+#### Get_node_info 
 
 GET https://api.ttcnet.io/api/node
 
@@ -171,7 +170,7 @@ The response body will include number of connected peers, blockchain height, and
 
 
 
-#### Get address info
+#### Get_address_info
 
 GET https://api.ttcnet.io/api/wallet/address/{address}
 
@@ -197,7 +196,7 @@ When invoked with an invalid address, will return an HTTP 404 code
 
 
 
-#### Create account 
+#### Create_account 
 
 POST https://api.ttcnet.io/api/wallet/address
 
@@ -228,7 +227,7 @@ The response body will include the newly-created address.
 
 
 
-#### Submit transaction
+#### Submit_transaction
 
 POST https://api.ttcnet.io/api/wallet/transaction/
 
