@@ -1,6 +1,6 @@
 
 <h1 align="center">TTC</h1>
-<p align="center" class="version">A Decentralized and Incentivized Social Networking Protocol</p>
+<p align="center" class="version">A Blockchain Fit for Mass Adoption and a Sustainable Token Economy Model</p>
 
 ## TTC Whitepapers
 
