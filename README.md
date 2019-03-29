@@ -2,6 +2,12 @@
 <h1 align="center">TTC</h1>
 <p align="center" class="version">A Blockchain Fit for Mass Adoption and a Sustainable Token Economy Model</p>
 
+## TTC Technical Documentation
+
+[TTC RPC](https://github.com/TTCECO/Documentation/blob/master/TTC_RPC_Documentation.md) 
+[TTC Rest API](https://github.com/TTCECO/Documentation/blob/master/TTC_Rest_API_Documentation.md) 
+
+
 ## TTC Whitepapers
 
 [English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_EN.pdf) | [Korean](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_KR.pdf) | [Chinese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper/TTC_Whitepaper_CHS.pdf) | [Vietnamese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v1/TTC_Whitepaper_VI.pdf) | [Russian](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v1/TTC_Whitepaper_RU.pdf) | [Indonesian](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v1/TTC_Whitepaper_INA.pdf)
