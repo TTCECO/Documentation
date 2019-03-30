@@ -11,7 +11,7 @@
 
 ## TTC Whitepapers
 
-[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v2/TTC_Whitepaper_EN.pdf) | [Korean](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v2/TTC_Whitepaper_KR.pdf) | [Chinese](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v2/TTC_Whitepaper_CN.pdf)
+[English](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v2/TTC_Whitepaper_EN.pdf) | [한글](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v2/TTC_Whitepaper_KR.pdf) | [中文](https://d1u6eqogwsdivn.cloudfront.net/whitepaper_v2/TTC_Whitepaper_CN.pdf)
 
 ## TTC Ecosystem
 
